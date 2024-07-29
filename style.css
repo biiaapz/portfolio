@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#EBEBEB ;
+}
+.banner {
+    background-image: url("./img.porfolio/Group\ 3\ \(2\).png");
+    height: 850px;
+    background-repeat: no-repeat;
+    background-position: 108% 0%;
+    /* background-image: linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(0, 0, 0, 0.8) 100%), url(./img.porfolio/still-life-graphic-design-studio\ \(4\).jpg); */
+}
+
+.titulo {
+    font-family:"Bebas Neue" ;
+    margin-left: 120px;
+    
+}
+
+.titulo img {
+    width: 110px;
+ 
+}
+.sobre {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    width: 350px;
+    justify-content: space-between;
+    padding-top: 5px;
+
+}
+
+.tecnologia {
+    font-family: "Bebas Neue";
+    color: #90AE53;
+    margin-left: 35px;
+    margin-top: 10p;
+}
+
+.icons {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.texto {
+    margin-left: 30px;
+    font-family: "Bebas Neue";
+    margin-top: 5px;
+
+}
+
+.carrosel {
+    margin-left: 20px;
+
+}
+
+.icon {
+    margin-left: 30px;
+    
+}
+ .objetivo {
+    font-family: "Bebas Neue";
+    margin-top: 9px;
+    color: #90AE53;
+    margin-left: 30px;
+ }
+
+ .objetivo1 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    color: black;
+    text-align:;
+    width: 600px;
+    justify-content: space-between;
+ 
+
+ }
